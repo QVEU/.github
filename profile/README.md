@@ -6,7 +6,7 @@ This is the virtual home of the Quantitative Virology and Evolution Unit. We are
 
 ## Getting Started - Version Control with GitHub
 
-We use Git for version control. It helps us disseminate our work and promote reproducibility. Use it to make your work and the work of others more efficiently and effectively.
+We use Git for version control. It helps us disseminate our work and promote reproducibility. Use it to make your work and the work of others more efficient and effective.
 
 To contribute to this or any repository, you will need to create a GitHub account and fork the repository. This creates a new, personal version of the code. Once you have forked the repository, you can clone it to your local machine or to the cluster and begin working on your changes. When you have changes that you feel are stable enough to replace the current code version, you can submit a pull request. We won’t describe Git in detail here, but many good resources exist. For beginners (and experts) the GitHub Desktop App is very helpful. 
 
