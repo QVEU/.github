@@ -1,11 +1,19 @@
 # Welcome to the QVEU
 This is the virtual home of the Quantitative Virology and Evolution Unit. We are virologists, computational biologists, and evolutionary biologists interested in how viral pathogens emerge and evolve. 
 
-## A note on NIAID Skyline Cluster
+## Resources 
+- [Tutorials] for lab computational tools used by the lab. (https://github.com/QVEU/QVEU_Code/tree/main/Tutorials)
+
+## Getting Started - Version Control with GitHub
+
+We use Git for version control. It helps us disseminate our work and promote reproducibility. Use it to make your work and the work of others more efficiently and effectively.
+
+To contribute to this or any repository, you will need to create a GitHub account and fork the repository. This creates a new, personal version of the code. Once you have forked the repository, you can clone it to your local machine or to the cluster and begin working on your changes. When you have changes that you feel are stable enough to replace the current code version, you can submit a pull request. We won’t describe Git in detail here, but many good resources exist. For beginners (and experts) the GitHub Desktop App is very helpful. 
+
+## NIAID Skyline Cluster
 The NIAID Skyline Cluster is an essential tool for your work in the QVEU lab. Skyline is a high-performance computing (HPC) cluster that is used by researchers at the QVEU lab to do their research and store long-term data. The cluster is a shared resource that is managed by NIAID. For help, please contact `NIAIDHPCSUPPORT@niaid.nih.gov` and CC Patrick for tracking purposes. 
 
 The cluster is composed of a number of compute nodes, each of which has multiple CPUs and a large amount of memory (https://skyline.niaid.nih.gov/hardware/). The nodes are connected by a high-speed network, which allows them to communicate with each other quickly and efficiently.
-
 
 The cluster is used for a variety of purposes, including:
 - Running our analyses
@@ -16,12 +24,6 @@ The cluster is used for a variety of purposes, including:
 - Check out these links to get started. 
   - https://skyline.niaid.nih.gov/
   - https://skyline.niaid.nih.gov/scheduler/#command-overview
-
-## Getting Started - Version Control with GitHub
-
-We use Git for version control. It helps us disseminate our work and promote reproducibility. Use it to make your work and the work of others more efficiently and effectively.
-
-To contribute to this or any repository, you will need to create a GitHub account and fork the repository. This creates a new, personal version of the code. Once you have forked the repository, you can clone it to your local machine or to the cluster and begin working on your changes. When you have changes that you feel are stable enough to replace the current code version, you can submit a pull request. We won’t describe Git in detail here, but many good resources exist. For beginners (and experts) the GitHub Desktop App is very helpful. 
 
 ## Coding Standards
 
