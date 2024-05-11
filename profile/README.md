@@ -26,9 +26,9 @@ To contribute to this or any repository, you will need to create a GitHub accoun
 ## Coding Standards
 
 All code should be written in accordance with the following coding standards:
-Use descriptive variable and function names 
-Add comments to your code to explain what it does as a favor to your future self and others. 
-Test your code thoroughly, and save well documented working versions with ‘readme’ markdowns (like this one). 
+- Use descriptive variable and function names 
+- Add comments to your code to explain what it does as a favor to your future self and others. 
+- Test your code thoroughly, and save well documented working versions with ‘readme’ markdowns (like this one). 
 
 ## Version Control
 
