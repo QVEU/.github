@@ -1,5 +1,10 @@
 # Welcome to the QVEU
+
+![Github Logo](https://github.com/QVEU/QVEU/blob/main/images/QVEU%20copy.png)
+
 This is the virtual home of the Quantitative Virology and Evolution Unit. We are virologists, computational biologists, and evolutionary biologists interested in how viral pathogens emerge and evolve. 
+
+
 
 ## Resources 
 - Tutorials for computational tools used by the lab: https://github.com/QVEU/QVEU_Code/tree/main/Tutorials
