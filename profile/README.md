@@ -1,5 +1,5 @@
 # Welcome to the QVEU
-This is the virtual home of the Quantitative Virology and Evolution Unit. We are virologists, computational biologists and evolutionary biologists interested in how viral pathogens emerge and evolve. 
+This is the virtual home of the Quantitative Virology and Evolution Unit. We are virologists, computational biologists, and evolutionary biologists interested in how viral pathogens emerge and evolve. 
 
 ## A note on NIAID Skyline Cluster
 The NIAID Skyline Cluster is an essential tool for your work in the QVEU lab. Skyline is a high-performance computing (HPC) cluster that is used by researchers at the QVEU lab to do their research and store long-term data. The cluster is a shared resource that is managed by NIAID. For help, please contact `NIAIDHPCSUPPORT@niaid.nih.gov` and CC Patrick for tracking purposes. 
